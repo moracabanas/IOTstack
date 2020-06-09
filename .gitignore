@@ -1,6 +1,2 @@
 #ignore data folders for containers
-/services/
-/volumes/
-/backups/
-docker-compose.yml
 .outofdate
